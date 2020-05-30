@@ -1,0 +1,1 @@
+python Steganography.py decode --image="encoded_image.png"

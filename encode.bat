@@ -1,0 +1,1 @@
+python Steganography.py encode --image="normalImage.png" --message="This is a secret word"
