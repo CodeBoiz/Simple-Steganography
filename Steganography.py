@@ -14,9 +14,6 @@ import cv2
 import numpy as np
 import os
 
-# root directory of the project
-ROOT_DIR = os.path.abspath("../../")
-
 def to_bin(data):
     """Convert `data` to binary format as string"""
     if isinstance(data, str):
