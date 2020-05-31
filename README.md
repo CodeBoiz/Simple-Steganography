@@ -10,3 +10,5 @@ To Encode:
 
 To Decode:
 `python Steganography.py decode --image="/path/to/image"`
+
+Some future plans I have for this repo are to allow for a full file to be embedded within an image.
